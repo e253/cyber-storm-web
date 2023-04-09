@@ -3,7 +3,12 @@
   let event_info_items = [
     {
       title: "Date and Time",
-      content: "TBA",
+      content: "Sunday, April 23, 12-5 PM",
+      link: false
+    },
+    {
+      title: "Location",
+      content: "Most likely Rice 130, but we are still waiting for confirmation.",
       link: false
     },
     {
@@ -12,8 +17,8 @@
       link: true
     },
     {
-      title: "Team Sizes",
-      content: "Teams of 4",
+      title: "Team Size",
+      content: "Up to 4",
       link: false
     },
     {
@@ -22,23 +27,8 @@
       link: false
     },
     {
-      title: "Location",
-      content: "Rice 130 (probably. I still need to get confirmation on this)",
-      link: false
-    },
-    {
-      title: "Meal Provided?",
+      title: "Food Provided?",
       content: "Hopefully... but we don't know yet",
-      link: false
-    },
-    {
-      title: "Description of Competition",
-      content: "todo",
-      link: false
-    },
-    {
-      title: "Competition Rules",
-      content: "todo",
       link: false
     },
     {
@@ -47,8 +37,8 @@
       link: true
     },
     {
-      title: "Who's Running It",
-      content: "Run by CNS (Computer and Network Security)",
+      title: "Who's Running It?",
+      content: "Computer and Network Security club (CNS)",
       link: false
     }
   ]
@@ -57,7 +47,7 @@
 <div class="container h-full mx-auto flex justify-center mt-5">
 	<div class="space-y-5">
 		<h1 class="mt-10 text-center">
-      Event Info 
+      Event Info
     </h1>
     <div class="card variant-ghost-secondary py-2 px-6 rounded-md">
       <ul>

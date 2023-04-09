@@ -22,6 +22,11 @@
 						Event Info
 					</button>
 				</a>
+				<a href="/color_info">
+					<button class="btn rounded-md variant-ghost-secondary font-bold">
+						What do all the colors mean? 🎨
+					</button>
+				</a>
 			</div>
 			<svelte:fragment slot="trail">
 				<LightSwitch />
