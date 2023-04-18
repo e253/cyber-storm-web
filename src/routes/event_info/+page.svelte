@@ -3,7 +3,7 @@
   let event_info_items = [
     {
       title: "Date and Time",
-      content: "Sunday, April 23, 12-5 PM",
+      content: "Sunday, April 23, 1-5 PM",
       link: false
     },
     {
