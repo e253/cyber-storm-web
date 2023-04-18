@@ -33,7 +33,7 @@
     },
     {
       title: "Discord Link",
-      content: "https://discord.com/invite/w9pec9jzn2",
+      content: "https://discord.com/invite/dDmVrpqFwh",
       link: true
     },
     {
