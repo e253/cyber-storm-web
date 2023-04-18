@@ -8,7 +8,7 @@
     },
     {
       title: "Location",
-      content: "Most likely Rice 130, but we are still waiting for confirmation.",
+      content: "Rice 130",
       link: false
     },
     {
